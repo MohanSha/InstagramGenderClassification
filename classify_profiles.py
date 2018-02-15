@@ -46,4 +46,7 @@ try:
 except KeyboardInterrupt:
   print('Aborted...')
 
-
+finally:
+  browser.delete_all_cookies()
+  browser.close()
+  json_file.close()
