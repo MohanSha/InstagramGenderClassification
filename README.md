@@ -2,6 +2,10 @@
 
 # Instagram-Gender-Classification
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/MohanSha/TwitterBot/blob/master/LICENSE)
+[![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-red.svg)](https://github.com/SeleniumHQ/selenium)
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3-green.svg)](https://www.python.org/)
+
 In order to be able to add a general sex classification to InstaPy (even if you don't have a Business Account), we are evaluating some machine learning techniques to test if there is a possibility that we can classify profiles by their sex only given their way of writing a bio, the descriptions on their posts and some other features.    
 Therefore we need a lot of data, this tool gives you an easy way to browse profiles based on tags.   
 For every profile the tool will ask you whether you know if it is a male, female or not defineble person (like business pages, e.g. Bike shops)
